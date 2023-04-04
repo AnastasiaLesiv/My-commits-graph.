@@ -1,0 +1,1 @@
+A data type specifies the type of data that a variable can store such as integer, floating, character etc.
