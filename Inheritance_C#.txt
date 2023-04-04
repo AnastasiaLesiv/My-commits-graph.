@@ -1,0 +1,1 @@
+In object-oriented programming, inheritance is another type of relationship between classes. Inheritance is a mechanism of reusing the functionalities of one class into another related class.
